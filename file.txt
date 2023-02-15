@@ -1,1 +1,2 @@
 This is file in submodule
+2nd line added
